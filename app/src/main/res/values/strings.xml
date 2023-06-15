@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bishownath_midterm</string>
+    <string name="author">Bishow WeatherApp</string>
+    <string name="location">British Columbia Location:</string>
+    <string name="cur">Current Temperature:</string>
+    <string name="max">Todays Maximum Temperature:</string>
+    <string name="min">Todays Minimum Temperature:</string>
+    <string name="desc">Todays Description:</string>
+    <string name="precipitation">Probability of Precipitation (POP):</string>
+    <string name="submit">Submit City</string>
+    <string name="loc">Province:</string>
+    <string name="city">City:</string>
+</resources>
